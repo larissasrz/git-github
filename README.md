@@ -22,7 +22,7 @@ Lista de Tarefas:
 - [x] Criar a página da loja
 - [ ] Finalizar a reunião com o cliente
 - [ ] Receber pagamento
-- [ ] 
+
 <img width="300" height="285" alt="gojo-zuera" src="https://github.com/user-attachments/assets/7c7a700d-6b3f-4c67-a2c1-ebd8f757dbfb" />
 
 Num | Nome | Nota
